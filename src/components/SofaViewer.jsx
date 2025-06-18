@@ -4,10 +4,10 @@ import TableModel from './TableModel'
 import { useState } from 'react'
 
 const models = {
-  'L56': '/models/urban-kruglyj_l56.glb',
-  'L63': '/models/urban-kruglyj_l63.glb',
-  'L113': '/models/urban-kruglyj_l113.glb',
-  'L115': '/models/urban-kruglyj_l115.glb',
+  'L56': '/public/models/urban-kruglyj_l56.glb',
+  'L63': '/public/models/urban-kruglyj_l63.glb',
+  'L113': '/public/models/urban-kruglyj_l113.glb',
+  'L115': '/public/models/urban-kruglyj_l115.glb',
 }
 
 
